@@ -1,0 +1,23 @@
+ogrenci12 s1 = new ogrenci12();
+s1.firstName='John';
+s1.lastName='Doe';
+s1.className='7E';
+s1.art = False;
+s1.sport = True;
+s1.ingGrade = 85;
+s1.mathGrade = 95;
+s1.fenGrade = 90;
+system.debug(s1);
+s1.message();
+
+ogrenci12 s2 = new ogrenci12();
+s2.firstName='ayse';
+s2.lastName='yalcin';
+s2.className='8E';
+s2.art = True;
+s2.sport = False;
+s2.ingGrade = 95;
+s2.mathGrade = 95;
+s2.fenGrade = 100;
+system.debug(s2);
+s2.message();
