@@ -21,6 +21,7 @@ The `sfdx-project.json` file contains useful configuration information for your 
 
 ##change directly on remote repo (by another dev)
 - some changes
-- bla blaaaa huuu
-- bfgfhdbjdcjd
+- change in dev branch. we publish.
+- change in dev branch again, dev branch
 - nbvccdxxd
+- dev batch 12 prg loaded
