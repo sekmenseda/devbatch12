@@ -20,4 +20,7 @@ The `sfdx-project.json` file contains useful configuration information for your 
 
 
 ##change directly on remote repo (by another dev)
-some changes
+- some changes
+- bla blaaaa huuu
+- bfgfhdbjdcjd
+
