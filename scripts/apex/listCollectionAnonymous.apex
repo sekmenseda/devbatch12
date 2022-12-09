@@ -23,6 +23,10 @@ system.debug('sort dan sonra listem ' + isimlistem);
 
 ListCollection.printNames(isimlistem);
 
+List<Decimal> dList = new List<Decimal>{11.5, 23.5, 22.4, 3.5, 4,8};
+decimal toplam = ListCollection.listEachItemSum(dList);
+System.debug(dList + ' listesinin elemanlarinin toplami = ' + toplam);
+
 
 
 
